@@ -36,29 +36,5 @@ let salary_data = {
     name: "JS Dude",
     salary: "44432",
   },
-  "-JvacZOcfUEvub7mxeo-": {
-    name: "Jhankar Mahbub",
-    organization: "Nielsen",
-    salary: "53454",
-  },
-  "-Jvac_s61TL9oYM5SjMR": {
-    name: "Jhankar Mahbub",
-    salary: "43454",
-  },
-  "-JvacbMTxlHCG5VaVDWg": {
-    name: "Jhankar Mahbub",
-    salary: "33454",
-  },
-  "-JviNyklLgZqk4rSB8pA": {
-    name: "Jhankar Mahbub",
-    salary: "23444",
-  },
-  "-JviO0Y_tNNMQNrdZVBR": {
-    name: "Jhankar Mahbub",
-    salary: "63444",
-  },
-  "-JviO3gXUpSdnZHtliWg": {
-    name: "Jhankar Mahbub",
-    salary: "53655",
-  },
+  
 };
